@@ -6,6 +6,8 @@ authors = ["Robert Meissner <robert.meissner@codecentric.de>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pandas = "^1.4.2"
+jupyter = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
